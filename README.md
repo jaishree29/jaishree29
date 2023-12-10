@@ -15,8 +15,6 @@
 </div>
 </div>
 
-
-
 # Hi there 👋 I'm Jaishree, a frontend web developer.
 
 ### 💫 About Me:
@@ -38,6 +36,8 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 ![](https://github-readme-stats.vercel.app/api?username=jaishree29&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaishree29&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaishree29&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/64004539/165444064-67ec916c-660c-410d-91ce-1f39704a3981.svg" align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaishree29&theme=radical&no-frame=false&no-bg=false&margin-w=4)

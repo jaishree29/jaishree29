@@ -15,13 +15,13 @@
 </div>
 </div>
 
-# Hi there 👋 I'm Jaishree, a frontend web developer.
+# Hi there 👋 I'm Jaishree, flutter developer.
 
 ### 💫 About Me:
-I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m learning skills and contributing to frontend for building web applications.
+I am a flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Learning and building applications.
 
-- :seedling: Exploring Application Development using Flutter.
+- :seedling: Dart makes my heart flutter!
 
 - :zap: In my free time, I solve problems on Coding Ninjas and read tech articles.
 
